@@ -1,8 +1,14 @@
 {
-	"extensions": [
-		"ms-vscode.cpptools",
-		"vadimcn.vscode-lldb",
-		"tomoki1207.pdf"
-	]
-
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"vadimcn.vscode-lldb",
+				"ms-vscode.cpptools",
+				"analytic-signal.preview-pdf",
+				"GitHub.copilot",
+				"hediet.vscode-drawio",
+				"bierner.markdown-mermaid"
+			]
+		}
+	}
 }
