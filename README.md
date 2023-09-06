@@ -4,6 +4,27 @@
 
 Implementar la clase `Alumno` en C++.
 
+## Ejemplo de ejecución
+```
+Datos de alumno por default
+===========================
+Matricula: A000000
+Nombre: RICARDO RAFAEL QUINTERO MEZA
+Edad: 18
+Carrera: ITC
+
+Datos de alumno que no es por default
+=====================================
+Matricula: A178940
+Nombre: LUZ LOPEZ CISNEROS
+Edad: 19
+Carrera: IC
+
+Festejando !!
+=============
+Felicidades LUZ LOPEZ CISNEROS por tu cumpleaños No. 20 !
+```
+
 ## Diagrama de Clases
 
 ```mermaid
