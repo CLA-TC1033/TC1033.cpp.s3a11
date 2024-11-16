@@ -47,7 +47,7 @@ classDiagram
       Alumno: +imprimeAlumno() void
       Alumno: +cumpleanios() void
 ```
-
+[Diagramas de clase en el lenguaje Mermaid](https://mermaid.js.org/syntax/classDiagram.html)
 ## Objetivo
 
 - Busca que el código pase correctamente todas las pruebas
